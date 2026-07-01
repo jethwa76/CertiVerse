@@ -1,4 +1,4 @@
-# 📜 CertiVault
+# 📜 CertiVerse
 
 > **A modern, responsive certificate showcase website built using HTML, CSS, and JavaScript.**
 
